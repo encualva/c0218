@@ -1,1 +1,1 @@
-He aprendido a borrar, crear e ignorar archivos en un Git. Y a revisar cambios con `diff`
+He aprendido a borrar, crear e ignorar archivos en un Git. Y a revisar cambios con `diff` después de haberlo agregado al stage.
